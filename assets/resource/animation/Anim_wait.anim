@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anim_wait",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a2324f30-0a84-456d-8baa-d17f1c59b949"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "1d9168f9-ed09-4276-af39-950f2c17165b"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "346d1b52-0be7-40eb-ba1e-229143a2d4b1"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "a2324f30-0a84-456d-8baa-d17f1c59b949"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

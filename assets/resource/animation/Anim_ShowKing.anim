@@ -1,0 +1,149 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anim_ShowKing",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5833333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Node_King1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "Node_King2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "Node_King3": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "Node_King4": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "Anim_Rotion": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 90
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 180
+            },
+            {
+              "frame": 0.25,
+              "value": 270
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 360
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 450
+            },
+            {
+              "frame": 0.5,
+              "value": 540
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 630
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

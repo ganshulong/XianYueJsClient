@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f944c9fe-9f3a-4ac7-924e-c054033f5b71",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ForRoomItemWinTopBg": {
+      "ver": "1.0.3",
+      "uuid": "7fd983b7-8a7b-4b7c-8c0c-cf929657b94f",
+      "rawTextureUuid": "f944c9fe-9f3a-4ac7-924e-c054033f5b71",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 296,
+      "height": 51,
+      "rawWidth": 296,
+      "rawHeight": 51,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

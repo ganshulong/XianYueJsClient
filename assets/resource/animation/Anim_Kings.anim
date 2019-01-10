@@ -1,0 +1,137 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anim_Kings",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.67,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Sprite_Rotion": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 90
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 180
+            },
+            {
+              "frame": 0.5,
+              "value": 270
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "Node_King1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "Node_King2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "Node_King3": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "Node_King4": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

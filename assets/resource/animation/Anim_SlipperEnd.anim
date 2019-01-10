@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anim_SlipperEnd",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "adf589e1-a70c-483b-a1f2-fec54efd01c7"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "fa1cdf99-db0f-4b2d-8137-f52f9a12b8d3"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "0433a5f5-b22b-4ee6-ba42-55863dd53ce4"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "a9af26dc-ed18-48a3-9c1b-2528d24b8b70"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "2597fb49-c15b-447a-b419-d31e274a1631"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "9e093164-ca6c-482c-888f-311cc6cdc92e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.8333333333333334,
+      "func": "Event_End",
+      "params": []
+    }
+  ]
+}

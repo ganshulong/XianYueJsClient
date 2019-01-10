@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f2ee3739-dd5f-430b-bae1-b60157f05f64",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Btn_JionRoom": {
+      "ver": "1.0.3",
+      "uuid": "0e14b81b-34ec-4de4-be4e-19a91e62e058",
+      "rawTextureUuid": "f2ee3739-dd5f-430b-bae1-b60157f05f64",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 136,
+      "height": 86,
+      "rawWidth": 136,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

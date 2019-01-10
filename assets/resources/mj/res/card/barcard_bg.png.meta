@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f1db9dd3-08cb-49f7-b59b-b47ca0feb909",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "barcard_bg": {
+      "ver": "1.0.3",
+      "uuid": "49b25a5d-5e39-44d2-9682-af1b3dbd4fab",
+      "rawTextureUuid": "f1db9dd3-08cb-49f7-b59b-b47ca0feb909",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 42,
+      "height": 60,
+      "rawWidth": 42,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

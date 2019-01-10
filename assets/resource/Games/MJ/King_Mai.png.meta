@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e95296da-5099-4c88-af47-db94f68c338c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "King_Mai": {
+      "ver": "1.0.3",
+      "uuid": "66ee8f75-1fb1-4342-a14a-311572fa1654",
+      "rawTextureUuid": "e95296da-5099-4c88-af47-db94f68c338c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 196,
+      "height": 105,
+      "rawWidth": 196,
+      "rawHeight": 105,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

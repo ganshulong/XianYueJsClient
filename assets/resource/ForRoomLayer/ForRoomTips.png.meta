@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "03d7c9bc-4b7a-4063-a46b-67547ddd8a4f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ForRoomTips": {
+      "ver": "1.0.3",
+      "uuid": "3c677f2f-e4e7-44c9-ab4c-a177e18fe108",
+      "rawTextureUuid": "03d7c9bc-4b7a-4063-a46b-67547ddd8a4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 278,
+      "height": 65,
+      "rawWidth": 278,
+      "rawHeight": 65,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

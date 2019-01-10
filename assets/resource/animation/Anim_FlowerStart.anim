@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anim_FlowerStart",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1fd66a28-26a6-4534-8a45-ae7c11e97f9f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "d7dca755-b2d8-4498-a9be-44f534746486"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "f862fe03-0493-454b-ab48-47ff8b0a98ee"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "93bed8cf-3dae-4dde-9a53-1da0930eb028"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "c0cde0ed-15b7-4031-9b4e-5f71affbfc30"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "30e27f14-7d68-416e-93f1-a860fd4d20a0"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.8333333333333334,
+      "func": "Event_Start",
+      "params": []
+    }
+  ]
+}

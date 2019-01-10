@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ef4693d3-6786-4b43-8469-8d7aaa79bae6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "RoomCardBg": {
+      "ver": "1.0.3",
+      "uuid": "f316909d-dc7c-4589-8c1e-e32c384871e3",
+      "rawTextureUuid": "ef4693d3-6786-4b43-8469-8d7aaa79bae6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 61,
+      "height": 51,
+      "rawWidth": 61,
+      "rawHeight": 51,
+      "borderTop": 21,
+      "borderBottom": 21,
+      "borderLeft": 22,
+      "borderRight": 22,
+      "subMetas": {}
+    }
+  }
+}

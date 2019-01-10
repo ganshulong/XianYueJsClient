@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anim_Ding",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e807cfb9-660f-4227-ad77-1b08958f8ce0"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "f7380331-dbc1-4e44-b25a-4c7f25ad2980"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "6ba8fa66-d3af-4591-849e-db79eea6fdaf"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b30cb5d3-a980-40de-a47b-9e48febcc242"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "4095b2d8-bf58-412a-9799-92b83b84c6eb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

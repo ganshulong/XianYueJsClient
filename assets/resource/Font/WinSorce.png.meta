@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "156273d2-672f-4111-9b59-f8b0084d2fbb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "WinSorce": {
+      "ver": "1.0.3",
+      "uuid": "10905744-7d29-4c58-868f-f27e3dbab237",
+      "rawTextureUuid": "156273d2-672f-4111-9b59-f8b0084d2fbb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 286,
+      "height": 28,
+      "rawWidth": 288,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

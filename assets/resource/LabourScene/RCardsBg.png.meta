@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c7f8e856-538f-413d-9352-3361f51e2f37",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "RCardsBg": {
+      "ver": "1.0.3",
+      "uuid": "5a51c1f7-fdfa-4460-a8d9-5ab56dd0a068",
+      "rawTextureUuid": "c7f8e856-538f-413d-9352-3361f51e2f37",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 230,
+      "height": 366,
+      "rawWidth": 230,
+      "rawHeight": 366,
+      "borderTop": 30,
+      "borderBottom": 36,
+      "borderLeft": 15,
+      "borderRight": 14,
+      "subMetas": {}
+    }
+  }
+}

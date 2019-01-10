@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Anim_ThumbStart",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6c417510-d475-433f-a0a8-d294a81e896b"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "4602435c-9f48-429e-b7b3-03f2e16de907"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "57ec6117-7341-4557-917b-24eef07266ec"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "030a513f-1662-4841-9e28-db04278eaf19"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "73b7be50-dd1a-4ece-affb-755e3782d876"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.6666666666666666,
+      "func": "Event_Start",
+      "params": []
+    }
+  ]
+}
